@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\julia\documents\visual studio 2015\projects\method fibachi\method fibachi\function.h(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\julia\documents\visual studio 2015\projects\method fibachi\method fibachi\function.h(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  method fibachi.vcxproj -> c:\users\julia\documents\visual studio 2015\Projects\method fibachi\Debug\method fibachi.exe
+  method fibachi.vcxproj -> c:\users\julia\documents\visual studio 2015\Projects\method fibachi\Debug\method fibachi.pdb (Partial PDB)
